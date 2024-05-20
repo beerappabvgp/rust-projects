@@ -1,4 +1,3 @@
-use std::ffi::c_long;
 
 fn main() {
     let mut x = 10;
@@ -19,5 +18,5 @@ fn main() {
 
     let spaces = "  ";
     let spaces = spaces.len();
-    println!("len of spaces string is : {} " , spaces);  
+    println!("len of spaces string is : {} " , spaces);     
 }
