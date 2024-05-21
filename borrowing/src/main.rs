@@ -15,8 +15,8 @@ fn borrow() {
     println!("{s1} , {s2} ");
     let s3 = &mut s;
     println!("{s3}");
-    println!("{s}");
 }
+println!("{s}");
 
 fn calculate_length(s : &String) -> usize {
     s.len()
