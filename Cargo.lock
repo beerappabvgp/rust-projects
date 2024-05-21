@@ -3,10 +3,18 @@
 version = 3
 
 [[package]]
+name = "borrowing"
+version = "0.1.0"
+
+[[package]]
 name = "cfg-if"
 version = "1.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
+
+[[package]]
+name = "conditionals"
+version = "0.1.0"
 
 [[package]]
 name = "datatypes"
@@ -39,6 +47,14 @@ name = "libc"
 version = "0.2.155"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "97b3888a4aecf77e811145cadf6eef5901f4782c53886191b2f693f24761847c"
+
+[[package]]
+name = "loops"
+version = "0.1.0"
+
+[[package]]
+name = "ownership"
+version = "0.1.0"
 
 [[package]]
 name = "ppv-lite86"
