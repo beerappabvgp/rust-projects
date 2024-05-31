@@ -1,4 +1,4 @@
-workspace = { members = [ "backyard", "borrowing", "collections", "conditionals","datatypes", "enums", "functions", "loops", "methods", "ownership", "rectangles", "restaurant", "slices", "strings", "structures"] }
+workspace = { members = [ "backyard", "borrowing", "collections", "conditionals","datatypes", "enums", "errors", "functions", "hashmap", "loops", "methods", "ownership", "rectangles", "restaurant", "slices", "strings", "structures"] }
 [package]
 name = "guessing_game"
 version = "0.1.0"
